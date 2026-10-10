@@ -1,6 +1,6 @@
 # Guías de Transportista
 
-Web app (HTML/CSS/JS, sin dependencias ni servidor) para preparar y controlar las
+Web app (un solo archivo `index.html` con HTML, CSS y JS, sin dependencias ni servidor) para preparar y controlar las
 Guías de Remisión Electrónicas Transportista (GRE-T) de SUNAT a partir de la guía
 del remitente.
 
